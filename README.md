@@ -14,4 +14,7 @@
 - go Rutine을 이용해 각 패턴을 탐지하고 반환
 
 ---
-
+### 결과물
+<p align="">
+https://github.com/user-attachments/assets/e48a3fff-27f9-4817-96ef-74f70928510a | https://github.com/user-attachments/assets/9cb745bf-23d8-479a-a733-5ce04e31b11d
+---|---|
