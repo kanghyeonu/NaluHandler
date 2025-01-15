@@ -20,7 +20,6 @@
   <img src="https://github.com/user-attachments/assets/9cb745bf-23d8-479a-a733-5ce04e31b11d" align="center" width="50%">  
   <figcation align = "cennter">
 </p>
-- 손상된 프레임을 디코딩 후 프레임 추출 결과
-- 위: 원본 프레임, 아래: 200byte가 삭제된 프레임 
+- 손상된 프레임을 디코딩 후 프레임 추출 결과(위: 원본 프레임, 아래: 200byte가 삭제된 프레임)
   
 
