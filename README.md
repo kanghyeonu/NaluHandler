@@ -1,11 +1,12 @@
 # NaluHandler
-개요: H.264/AVC 비디오 압축 표준 NAL을 구성하는 최소 단위 Nalu을 바이트 단위로 삭제하는 프로그램 
+H.264/AVC 비디오 압축 표준으로 인코딩된 프레임을 삭제하는 프로그램 
 (Frame Sceduling Approach for Real-Time Streaming)
 
 ---
 ### 동작 방법
-- FFmpeg를 통해 .mp4 파일을 .h264로 변환
+- FFmpeg와 같은 툴로 .mp4 파일을 .h264로 변환
 - 파일 내 main문 시작의 for문의 start_offset 변수 설정으로 시작 위치 및 삭제 비율 설정 후 실행
+-   ㅇㄹ
 
 ---
 ### 동작 알고리즘
