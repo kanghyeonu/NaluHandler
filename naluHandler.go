@@ -7,8 +7,6 @@ import (
 	"log"
 	"os"
 	"sort"
-	//"os/exec"
-	//"strings"
 )
 
 var (
